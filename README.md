@@ -1,23 +1,54 @@
-# Nextra Docs Template 
+# Awesome AI Writing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+A curated list of AI writing tools, platforms, and resources. This repository aims to help writers, content creators, and developers find the best AI-powered writing solutions.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+🌐 [View Documentation](https://awesome-ai-writing.vercel.app/)
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
+## Contents
 
-## Quick Start
+- [Awesome AI Writing ](#awesome-ai-writing-)
+  - [Contents](#contents)
+  - [AI Writing Assistants](#ai-writing-assistants)
+  - [Content Generation Tools](#content-generation-tools)
+  - [Language Models](#language-models)
+  - [Writing Enhancement Tools](#writing-enhancement-tools)
+  - [Resources](#resources)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Star History](#star-history)
 
-Click the button to clone this repository and deploy it on Vercel:
+## AI Writing Assistants
 
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+*Tools that help with the writing process*
 
-## Local Development
+## Content Generation Tools
 
-First, run `pnpm i` to install the dependencies.
+*AI-powered content creation platforms*
 
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
+## Language Models
+
+*Notable language models for writing*
+
+## Writing Enhancement Tools
+
+*Tools for improving writing quality*
+
+## Resources
+
+*Useful resources for AI writing*
+
+## Contributing
+
+Your contributions are always welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
-This project is licensed under the MIT License.
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Linkly AI] has waived all copyright and related or neighboring rights to this work.
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=your-username/awesome-ai-writing&type=Date)](https://star-history.com/#your-username/awesome-ai-writing&Date)

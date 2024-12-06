@@ -1,7 +1,10 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "Overview",
+  "assistants": "AI Writing Assistants",
+  "content-tools": "Content Generation",
+  "models": "Language Models",
+  "tools": "Enhancement Tools",
+  "resources": "Resources",
   "about": {
     "title": "About",
     "type": "page"
@@ -9,7 +12,7 @@
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://x.com/BlueeonY",
     "newWindow": true
   }
 }

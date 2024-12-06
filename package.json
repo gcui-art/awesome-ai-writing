@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "awesome-ai-writing",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "Awesome AI Writing",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/linkly-ai/awesome-ai-writing.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Linkly AI",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/linkly-ai/awesome-ai-writing/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://awesome-ai-writing.vercel.app/",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
